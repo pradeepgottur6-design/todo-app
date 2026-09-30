@@ -20,4 +20,4 @@ A modern To-Do List web application built using HTML, CSS, and JavaScript.
 2. Open index.html in browser
 
 ## Author
-[Your Name]
+Pradeep G
